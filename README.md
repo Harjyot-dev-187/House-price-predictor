@@ -1,2 +1,2 @@
-# House-price-predictor
-Creating a machine leaning project witn pandas and using linear regression
+# House-price-app
+ Predict the price of the house
